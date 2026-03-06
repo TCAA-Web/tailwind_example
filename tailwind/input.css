@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
 
 @theme {
-  --color-custompurple: #673833;
-  --color-customwhite: #efefef;
-  --color-customblack: #414141;
+  --color-customWhite: rgb(227, 227, 227);
+  --color-customBlack: #414141;
   --font-customGoogleFont: 'Google Sans', sans-serif;
 }

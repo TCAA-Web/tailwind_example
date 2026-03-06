@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@tailwindcss/cli": "^4.2.1",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.2.1",
+    "twin.macro": "^3.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-twin": "^1.1.0"
   }
 }
